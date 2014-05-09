@@ -4,8 +4,8 @@ This plugin enables publishing archive dynamically.
 
 ## Installation
 1. Unpack the mt-plugin-mtviewer archive.
-2. Upload and copy the mt-plugin-mtview/mt-view.cgi file to your MT folder. ( /path/to/mt )
-3. Upload and copy the mt-plugin-mtview/plugins/MTViewer folder to your MT's plugins folder. ( /path/to/mt/plugins )
+2. Upload and copy the mt-plugin-mtviewer/mt-view.cgi file to your MT folder. ( /path/to/mt )
+3. Upload and copy the mt-plugin-mtviewer/plugins/MTViewer folder to your MT's plugins folder. ( /path/to/mt/plugins )
 
 ## Usage
 Access mt-view.cgi with 'blog_id' and 'uri' parameters.
