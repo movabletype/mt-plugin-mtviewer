@@ -2,6 +2,9 @@ mt-plugin-mtviewer
 ==================
 This plugin enables publishing archive dynamically.
 
+## Requirement
+Movable Type 6.x or higher
+
 ## Installation
 1. Unpack the mt-plugin-mtviewer archive.
 2. Upload and copy the mt-plugin-mtviewer/mt-view.cgi file to your MT folder. ( /path/to/mt )
