@@ -1,3 +1,5 @@
+This plugin is no longer supported in Movable Type 8 and later.
+
 mt-plugin-mtviewer
 ==================
 This plugin enables publishing archive dynamically.
